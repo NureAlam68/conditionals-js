@@ -1,4 +1,4 @@
-let marks = 59;
+let marks = 60;
 
 if(marks < 100 && marks >= 90){
     console.log('Your Grade: A');
@@ -19,7 +19,7 @@ else {
                 console.log('Your Grade: D');
             }
 
-            else(marks < 59 && marks >= 0);{
+            else{
                 console.log('Your Grade: F');
             }
         }
