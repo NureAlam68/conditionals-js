@@ -1,8 +1,8 @@
-let myMarks = 81;
+let myMarks = 91;
 let friendMarks = 90;
 
 if(myMarks > 80 && friendMarks > 80) {
-    console.log('Go for a lunch')
+        console.log('Go for a lunch')
 } 
 
 
@@ -18,8 +18,8 @@ else if(myMarks > 80 && friendMarks < 40) {
         console.log('block your friend')
 }
 
-else{
-    console.log('Go to home and sleep and act sad')
+else {
+        console.log('Go to home and sleep and act sad')
 }
 
 
